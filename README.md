@@ -4,7 +4,7 @@ Welcome to my profile 👋
 
 <div>
 <a href="https://github.com/patrickauau">
-<img height="160cm" src="https://github-readme-stats.vercel.app/api?username=patrickauau&show_icons=true&theme=outrun&include_all_comits=true&count_private=true"/>
+<img height="157cm" src="https://github-readme-stats.vercel.app/api?username=patrickauau&show_icons=true&theme=outrun&include_all_comits=true&count_private=true"/>
 <img align="right" height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickauau&layout=compact&langs_count=16&theme=outrun" />
   </div>
   <br> <h1> Skills/Improve </h1>
