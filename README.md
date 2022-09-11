@@ -1,5 +1,5 @@
-# Hey ya, I’m patrickauau
-Welcome to my profile 👋
+# Rapaz aqui é eu patrick
+muy bem venido mi amigo meu hermano camarada 👋
 <hr>
 
 <div>
@@ -19,7 +19,7 @@ Welcome to my profile 👋
 <img align="center" alt="patrick-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="right" alt="patrick-rock" height="100" width="100" src="https://media.discordapp.net/attachments/779843392870940716/889344568464670750/the_rock_sus.gif"/>
   </div>
-<br> <h1> What I'll study soon </h1>
+<br> <h1> Soon </h1>
 <div style="display: inline_block"><br>
 <img align="center" alt="patrick-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="center" alt="patrick-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"/>
