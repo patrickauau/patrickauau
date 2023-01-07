@@ -11,18 +11,19 @@ Hello moto👋
 <div style="display: inline_block"><br>
 <img align="center" alt="patrick-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"/>
 <img align="right" alt="patrick-kokublu" src="https://media.discordapp.net/attachments/482200446958567425/562821472167657493/gif.gif"/>
-</div>
- <br> <h1> Learning </h1>
-<div style="display: inline_block"><br>
 <img align="center" alt="patrick-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="center" alt="patrick-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="center" alt="patrick-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+</div>
+ <br> <h1> Learning </h1>
+<div style="display: inline_block"><br>
+<img align="center" alt="patrick-GML" height="30" width="40" src="https://jgonfer.com/blog/wp-content/uploads/2017/03/GameMaker-Studio-2-Logo-Full.png"/>
+<img align="center" alt="patrick-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"/>
 <img align="right" alt="patrick-rock" height="100" width="100" src="https://media.discordapp.net/attachments/779843392870940716/889344568464670750/the_rock_sus.gif"/>
   </div>
 <br> <h1> Soon </h1>
 <div style="display: inline_block"><br>
 <img align="center" alt="patrick-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="center" alt="patrick-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"/>
 <img align="center" alt="patrick-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="right" alt="patrick-pinguim" height="100" width="100" src="https://media.discordapp.net/attachments/818311885367410698/941393609306038292/aaaa-deu-moleevapo.gif"/>
 
