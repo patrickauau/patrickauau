@@ -34,8 +34,8 @@ Hello moto👋
 
 ![Snake animation](https://github.com/patrickauau/patrickauau/blob/output/github-contribution-grid-snake.svg)
   
-<div class="div1">
-  <img align="center" alt="patrick-barriga" height="130" width="140" id="vs" src="https://cdn.discordapp.com/attachments/779843392870940716/1062204296118145144/VERSUS.png"/>
-  <img align="left" alt="patrick-madruga" height="150" width="140" id="madruga" src="https://cdn.discordapp.com/attachments/779843392870940716/1062202845002215454/Screenshot_1-removebg-preview.png"/>
-  <img align="right" alt="patrick-barriga" height="130" width="140" id="barriga" src="https://cdn.discordapp.com/attachments/779843392870940716/1062202864170188852/barriga.png"/>
+<div>
+  <img alt="patrick-madruga" height="150" width="140" id="madruga" src="https://cdn.discordapp.com/attachments/779843392870940716/1062202845002215454/Screenshot_1-removebg-preview.png"/>
+  <img alt="patrick-barriga" height="130" width="140" id="vs" src="https://cdn.discordapp.com/attachments/779843392870940716/1062204296118145144/VERSUS.png"/>
+  <img alt="patrick-barriga" height="130" width="140" id="barriga" src="https://cdn.discordapp.com/attachments/779843392870940716/1062202864170188852/barriga.png"/>
   </div>
