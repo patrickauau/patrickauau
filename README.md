@@ -7,7 +7,7 @@ Hello moto👋
 <img height="157cm" src="https://github-readme-stats.vercel.app/api?username=patrickauau&show_icons=true&theme=outrun&include_all_comits=true&count_private=true"/>
 <img align="right" height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickauau&layout=compact&langs_count=16&theme=outrun" />
   </div>
-  ## Skills/Improve 
+  <br><h1>Skills/Improve </h1>
 <div style="display: inline_block"><br>
 <img align="center" alt="patrick-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"/>
 <img align="right" alt="patrick-kokublu" src="https://media.discordapp.net/attachments/482200446958567425/562821472167657493/gif.gif"/>
