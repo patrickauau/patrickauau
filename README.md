@@ -31,3 +31,5 @@ Hello moto👋
   </div>
 
 ![Snake animation](https://github.com/patrickauau/patrickauau/blob/output/github-contribution-grid-snake.svg)
+  
+  <button id="botao">seu madruga</button>
