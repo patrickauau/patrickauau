@@ -1,3 +1,15 @@
-#div1{
+.div1{
+    display: flex;
+}
+
+#barriga{
+    display: flex;
+}
+
+#madruga{
+    display: flex;
+}
+
+#vs{
     display: flex;
 }
