@@ -34,13 +34,14 @@ Hello moto👋
 
 ![Snake animation](https://github.com/patrickauau/patrickauau/blob/output/github-contribution-grid-snake.svg)
   
+  <img src="https://profile-counter.glitch.me/patrickauau/count.svg" />
+  
 <div>
   <img alt="patrick-madruga" height="150" width="140" id="madruga" src="https://cdn.discordapp.com/attachments/779843392870940716/1062202845002215454/Screenshot_1-removebg-preview.png"/>
   <img alt="patrick-barriga" height="130" width="140" id="vs" src="https://cdn.discordapp.com/attachments/779843392870940716/1062204296118145144/VERSUS.png"/>
   <img alt="patrick-barriga" height="130" width="140" id="barriga" src="https://cdn.discordapp.com/attachments/779843392870940716/1062202864170188852/barriga.png"/>
   <img alt="palito" height="200" width="5" src="https://cdn.discordapp.com/attachments/762368041513779230/1062212737129795654/Screenshot_15.png"/>
   <img alt="goku" height="200" width="200" src="https://cdn.discordapp.com/attachments/762368041513779230/1062212207435337839/goku-super-saiyan.gif"/>
-  <img src="https://profile-counter.glitch.me/patrickauau/count.svg" />
   # No one will be like me nor you, be unique
   <img alt="gokuj" align="center" height="300" width="500" src="https://cdn.discordapp.com/attachments/762368041513779230/1062214133161934918/ok-okay.gif"/>
   </div>
