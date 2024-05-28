@@ -24,7 +24,7 @@ Hello moto👋
 <img align="right" alt="patrick-rock" height="100" width="100" src="https://media.discordapp.net/attachments/779843392870940716/889344568464670750/the_rock_sus.gif"/>
   </div>
 <br> <h1> Soon </h1>
-<div style="display: inline_block"><br>
+<div style="display: inline_block"><br> 
 <img align="center" alt="patrick-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="center" alt="patrick-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="right" alt="patrick-pinguim" height="100" width="100" src="https://media.discordapp.net/attachments/818311885367410698/941393609306038292/aaaa-deu-moleevapo.gif"/>
